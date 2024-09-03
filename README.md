@@ -1,4 +1,4 @@
-# CR
+**Status Atual: ✅ Concluído**
 
 ## Projeto
 
